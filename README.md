@@ -1,8 +1,19 @@
 ### Hi there 👋
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bencurrandev&theme=radical)]![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=bencurrandev&show_icons=true&theme=radical)
+
+## &#x1f4c8; GitHub Stats
+
+<a href="https://github.com/bencurrandev/bencurrandev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bencurrandev&hide=java,html,tex&theme=radical&langs_count=5" />
+</a>
+<a href="https://github.com/bencurrandev/bencurrandev">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=bencurrandev&show_icons=true&line_height=27&count_private=true&theme=radical" alt="Ben's GitHub Stats" />
+</a>
 
 <!--
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bencurrandev&theme=radical)![Ben's GitHub stats](https://github-readme-stats.vercel.app/api?username=bencurrandev&show_icons=true&theme=radical)
+
 **bencurrandev/bencurrandev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
